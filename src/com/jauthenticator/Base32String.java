@@ -1,4 +1,4 @@
-package com.kerio.jauthenticator;
+package com.jauthenticator;
 
 import java.util.HashMap;
 

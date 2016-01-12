@@ -1,4 +1,4 @@
-package com.kerio.jauthenticator;
+package com.jauthenticator;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInput;

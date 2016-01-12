@@ -1,4 +1,4 @@
-package com.kerio.jauthenticator.client;
+package com.jauthenticator.client;
 
 import java.util.Scanner;
 import java.util.Timer;

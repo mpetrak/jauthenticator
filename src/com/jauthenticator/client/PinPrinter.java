@@ -1,6 +1,6 @@
-package com.kerio.jauthenticator.client;
+package com.jauthenticator.client;
 
-import com.kerio.jauthenticator.JAuthenticator;
+import com.jauthenticator.JAuthenticator;
 import java.util.TimerTask;
 
 
