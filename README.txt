@@ -3,7 +3,7 @@ Generating Google authentication codes, including HOTP generator specified by RF
 Can be used as a alternative to Google Authenticator mobile apps (iOS, Android).
 
 How to run:
-1. Checkout / download from GitLab.
+1. Checkout / download from GitHub
 2. cd to app folder
 3. java -jar JAuthenticator.jar
 4. Insert secret code
